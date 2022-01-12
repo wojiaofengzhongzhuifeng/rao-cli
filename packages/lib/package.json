@@ -1,5 +1,5 @@
 {
-  "name": "lib",
+  "name": "@rao-cli/lib",
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "饶家俊 <raojiajun@dayuwuxian.com>",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "228b53de73fae92eabf50ad1cd45634246d1c498"
+  "gitHead": "3d491561c7aac939b67aba8bc16598f988e91567"
 }

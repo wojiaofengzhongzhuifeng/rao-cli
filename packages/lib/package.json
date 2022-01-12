@@ -13,11 +13,8 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "http://npm.platform.mobiu.space/"
-  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "3d491561c7aac939b67aba8bc16598f988e91567"
+  "gitHead": "506776bfd68051681472c9ca16d9797fef80f260"
 }
